@@ -230,5 +230,5 @@ export function fairyDustCursor(options) {
 }
 
 window.addEventListener("load", (event) => {
-  new cursoreffects.fairDustCursor();
+  new cursoreffects.fairyDustCursor();
 });
