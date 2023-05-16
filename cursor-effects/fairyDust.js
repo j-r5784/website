@@ -228,3 +228,7 @@ export function fairyDustCursor(options) {
     destroy: destroy
   }
 }
+
+window.addEventListener("load", (event) => {
+  new cursoreffects.fairDustCursor();
+});
