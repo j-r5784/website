@@ -1,4 +1,12 @@
 body {
   background-color: black;
   color: white;
+  font-family: 'Quicksand-Regular', Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Quicksand-Regular";
+  src: url("https://j-r5784.github.io/website/fonts/Quicksand-Regular.ttf");
 }
